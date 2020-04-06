@@ -1,0 +1,25 @@
+body{
+    font-style: "roboto";
+    margin:0
+}
+header{
+    background: '#003BFF';
+    text-align: center;
+
+}
+.logo{
+    color:#fff;
+    font-size: 40px;
+    font-family: 'Anton';
+}
+header input{
+    font-size: 20px;
+    margin: 20px 0;
+
+}
+.news_item{
+    background: red;
+    padding: 20px;
+    border-radius: border-box;
+    border-bottom: 1px solid gray;
+}
